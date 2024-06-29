@@ -1,5 +1,13 @@
 {
-  "main": "./src/index.js",
+  "name": "devslenzy",
+  "version": "1.0.0",
+  "description": "the developer of this project @devslenzy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Slenzy",
+  "license": "GNU",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
